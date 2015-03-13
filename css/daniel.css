@@ -1,0 +1,29 @@
+p.primerImg{
+	text-align: center;
+}
+body.first{
+	background-color: #DAD8CC;
+}
+h1.title{
+	font-family: Comic;
+}
+body.place{
+	background-color: #D8C19F;
+}
+h3.pt{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+}
+h3.ht{
+	font-family: 'Lobster', cursive;
+}
+#fonti{
+	font-family: 'Arvo', serif;
+}
+
+#content{
+	font-family: 'Droid Sans', sans-serif;
+}
+
+
+
